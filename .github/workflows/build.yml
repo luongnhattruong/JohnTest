@@ -13,4 +13,4 @@ jobs:
         env:
           GCP_P12_KEYFILE: "${{ secrets.GCP_P12_KEYFILE }}"
           GCP_JSON_KEYFILE: "${{ secrets.GCP_JSON_KEYFILE }}"
-        run: ./gradl
+        run: ./gradlew --stacktrace test
