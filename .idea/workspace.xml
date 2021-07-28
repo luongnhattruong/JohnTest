@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f9e1777-30a2-4e4c-af40-409a6a05854b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/john/com/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/john/com/JohnTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/john/com/JohnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/john/com/JohnTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -35,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/john/com/JohnTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="247">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -195,8 +195,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/john/com/JohnTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="247">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
